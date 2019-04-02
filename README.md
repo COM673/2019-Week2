@@ -22,3 +22,4 @@ https://github.com/COM673/2019-Week2/blob/master/2.SpringBoot-ViewTemplates.pdf
 
 #### Exercises
 https://github.com/COM673/2019-Week2/blob/master/3.Exercises.pdf
+ 
