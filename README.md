@@ -25,8 +25,7 @@ https://github.com/COM673/2019-Week2/blob/master/1.SpringBootIntro.pdf
 #### Part 2: Using View Templates in a Spring Web App
 https://github.com/COM673/2019-Week2/blob/master/2.SpringBoot-ViewTemplates.pdf
 
-##### &nbsp;&nbsp;&nbsp;Completed Part 2:
-&nbsp;&nbsp;&nbsp;https://github.com/COM673/spring-webapp1
+##### &nbsp;&nbsp;&nbsp;Completed Part 2: https://github.com/COM673/spring-webapp1
 
 #### Exercises
 https://github.com/COM673/2019-Week2/blob/master/3.Exercises.pdf
